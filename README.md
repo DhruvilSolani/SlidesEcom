@@ -1,5 +1,7 @@
 # SlideEase - E-commerce Platform
-
+ADMIN PASSWORD
+admin@slideease.com
+admin123
 A full-stack e-commerce web application specialized in selling sliders, slippers, and sandals.
 
 ## Tech Stack
@@ -115,9 +117,7 @@ NODE_ENV=development
 ```
 REACT_APP_API_URL=http://localhost:5000/api
 ```
-ADMIN PASSWORD
-admin@slideease.com
-admin123
+
 
 ## Contributing
 

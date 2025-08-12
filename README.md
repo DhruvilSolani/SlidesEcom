@@ -2,6 +2,11 @@
 
 A full-stack e-commerce web application specialized in selling sliders, slippers, and sandals.
 
+### ADMIN ID & PASSWORD
+- admin@slideease.com
+- admin123
+
+
 ## Tech Stack
 
 ### Frontend
@@ -16,10 +21,6 @@ A full-stack e-commerce web application specialized in selling sliders, slippers
 - MongoDB with Mongoose
 - JWT authentication with bcrypt
 - CORS enabled
-
-### ADMIN ID & PASSWORD
-- admin@slideease.com
-- admin123
 
 ## Features
 
